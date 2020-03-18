@@ -1,3 +1,3 @@
-# Travel Destinations
+This is a Github exercise taught in Udacity for practising different concepts of Git.
 
-A simple app to keep track of destinations I'd like to visit.
+This involves editing an html and css for a simple web page.
